@@ -9,7 +9,7 @@ def read(name):
 
 __author__ = "Tobias Herp <tobias.herp@gmx.net>"
 VERSION = (0,
-           3,   # konstantes Ausgabeintervall; Code aufgeräumt
+           3,   # code cleanup; output interval
            4,   # initial public version
            )
 __version__ = '.'.join(map(str, VERSION))

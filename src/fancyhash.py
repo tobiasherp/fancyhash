@@ -1,6 +1,11 @@
 ﻿# -*- coding: utf-8 -*- äöü vim: ts=8 sts=4 sw=4 si et tw=79
 """\
 fancyhash: user friendly hash calculation and checking
+
+See:
+../README.rst (English) resp. ../LIESMICH.rst (German) for a description
+../HISTORY.rst (English) resp. ../HISTORIE.rst (German) for the release history
+../TODO.rst (English) for things still to be done
 """
 # TODO (siehe auch -> fancyhash.txt):
 # [x] - --check (ok: v0.3+)
